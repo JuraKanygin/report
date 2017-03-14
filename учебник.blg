@@ -1,0 +1,10 @@
+[1] Config.pm:327> INFO - This is Biber 2.3
+[2] Config.pm:330> INFO - Logfile is 'ó÷åáíèê.blg'
+[181] biber-MSWIN:284> INFO - === 
+[323] Biber.pm:346> INFO - Reading 'ó÷åáíèê.bcf'
+[935] Utils.pm:147> WARN - Warning: Found biblatex control file version 3.2, expected version 2.9
+[938] Biber.pm:689> INFO - Found 0 citekeys in bib section 0
+[939] Utils.pm:147> WARN - The file 'ó÷åáíèê.bcf' does not contain any citations!
+[965] bbl.pm:505> INFO - Writing 'ó÷åáíèê.bbl' with encoding 'UTF-8'
+[966] bbl.pm:596> INFO - Output to ó÷åáíèê.bbl
+[980] Biber.pm:107> INFO - WARNINGS: 2
